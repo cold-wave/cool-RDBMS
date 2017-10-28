@@ -1,5 +1,5 @@
 # cool-RDBMS
-C++ implementation of RDBMS with interactive client interface.<br />
+C++ implementation of RDBMS with interactive client interface <br />
 Operations like Project, Select, Rename, Union, Cartesion Product and Set Difference are available.
 ## Files Description <br />
 ● data - Directory contains all files related to saved table.<br />
